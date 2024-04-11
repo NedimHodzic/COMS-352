@@ -1,2 +1,2 @@
 # COMS-352
-This is a repository containing homework assignments from COM S 352 at Iowa State University
+This repository contains homework assignments from COM S 352: Introduction to Operating Systems at Iowa State University, taken my Senior year.
